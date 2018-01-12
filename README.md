@@ -1,9 +1,13 @@
 
-# ddcn_tech_academy_testing_bootcamp
+# DDCN Tech Academy - Testing bootcamp resources
 
-[![Build Status](https://travis-ci.org/hmrc/ddcn_tech_academy_testing_bootcamp.svg?branch=master)](https://travis-ci.org/hmrc/ddcn_tech_academy_testing_bootcamp) [ ![Download](https://api.bintray.com/packages/hmrc/releases/ddcn_tech_academy_testing_bootcamp/images/download.svg) ](https://bintray.com/hmrc/releases/ddcn_tech_academy_testing_bootcamp/_latestVersion)
+This repository contains resources to support the testing bootcamp of the DDCN Tech Academy.
 
-This is a placeholder README.md for a new repository
+## IntelliJ Projects
+
+### [Cucumber starter](projects/cucumber_starter)
+
+This is a minimum working example of an SBT project with Cucumber.
 
 ### License
 
