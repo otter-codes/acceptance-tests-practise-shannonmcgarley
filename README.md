@@ -5,6 +5,10 @@ This repository contains resources to support the testing bootcamp of the DDCN T
 
 ## IntelliJ Projects
 
+### [Selenium starter](projects/selenium_starter)
+
+This is a minimum working example of an SBT project with Selenium. It requires the separate installation of `chromedriver` and adding it onto the `PATH` variable.
+
 ### [Cucumber starter](projects/cucumber_starter)
 
 This is a minimum working example of an SBT project with Cucumber.
