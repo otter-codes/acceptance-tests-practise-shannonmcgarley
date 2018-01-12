@@ -3,7 +3,7 @@
 
 This repository contains resources to support the testing bootcamp of the DDCN Tech Academy.
 
-## IntelliJ Projects
+## SBT Projects
 
 ### [Selenium starter](projects/selenium_starter)
 
